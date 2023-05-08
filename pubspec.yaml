@@ -1,3 +1,0 @@
- name: my_project
- dependencies:
-  http: ^0.12.2
