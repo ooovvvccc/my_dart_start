@@ -12,7 +12,7 @@ class B {
   }
 }
 
-class C with A, B {}
+class C extends B with A{}
 
 void main() {
   var c = new C();
